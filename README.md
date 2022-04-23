@@ -10,6 +10,12 @@
 
 愿热情永存，愿热爱不灭，愿生活无憾。
 
+## My favorite Project!
+[![campus-community-backend](https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=campus-community-backend)](https://github.com/yusixian/campus-community-backend)
+[![NewsSub_Manage_System](https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=NewsSub_Manage_System)](https://github.com/yusixian/NewsSub_Manage_System)
+
+[![yusixian.github.io](https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=yusixian.github.io)](https://github.com/yusixian/yusixian.github.io)
+
 <!--
 **yusixian/yusixian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
