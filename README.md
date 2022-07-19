@@ -10,7 +10,7 @@
 
 愿热情永存，愿热爱不灭，愿生活无憾
 
-# 🧑‍💻 Technical Stack
+# 💻 Technical Stack
 主攻React及其相关生态，最近开始研究Vue3，还在通过项目不断学习中！
 
 - 🥇 Daliy Use: 
@@ -46,6 +46,6 @@
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=yusixian&theme=dark&show_icons=true)](https://github.com/yusixian)
 
-# 😄 My favorite Project!
+# ⭐ My favorite Project!
 
 [![campus-community-backend](https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=campus-community-backend&theme=dark)](https://github.com/yusixian/campus-community-backend)
