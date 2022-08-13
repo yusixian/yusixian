@@ -44,5 +44,15 @@
 
 # ⭐ My favorite Project!
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=yusixian&theme=dark&show_icons=true)](https://github.com/yusixian)
-[![campus-community-backend](https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=campus-community-backend&theme=dark)](https://github.com/yusixian/campus-community-backend)
+<a href="https://github.com/yusixian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusixian&count_private=true&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/yusixian/campus-community-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=campus-community-backend&theme=dark&layout=compact" />
+</a>
+<a href="https://github.com/yusixian/cosine-ui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=cosine-ui&theme=dark&layout=compact" />
+</a>
+<a href="https://github.com/yusixian/cosine-toolbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=cosine-toolbox&theme=dark&layout=compact" />
+</a>
