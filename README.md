@@ -10,7 +10,7 @@
 愿热情永存，愿热爱不灭，愿生活无憾
 
 # 💻 Technical Stack
-主攻React及其相关生态，最近开始研究Vue3，还在通过项目不断学习中！
+主攻React及其相关生态，最近在不断尝试自己的各种小项目^_^
 
 - 🥇 Daliy Use: 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
