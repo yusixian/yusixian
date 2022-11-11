@@ -42,10 +42,14 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
-# ⭐ My favorite Project!
 
 <a href="https://github.com/yusixian">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusixian&count_private=true&theme=dark&show_icons=true" />
+</a>
+
+# ⭐ My favorite Project!
+<a href="https://github.com/yusixian/cos_blogs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=cos_blogs&theme=dark&layout=compact" />
 </a>
 <a href="https://github.com/yusixian/campus-community-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=campus-community-backend&theme=dark&layout=compact" />
