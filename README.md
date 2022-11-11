@@ -5,8 +5,8 @@
 - 是余弦(cosine)那个cos，不是cosplay那个cos
 - 热爱写代码，现在热衷于前端开发，之前也有过不少后端的经验，现在正朝着大前端的方向努力
 - 十分欢迎各位偶尔来看看我的博客~ [cos的博客 - WA的一声就哭了](https://ysx.cosine.ren/)
-- 前端学习记录：[前言及目录 - 前端学习记录](https://book.cosine.ren/)
-
+- Gitbook 前端学习记录：[前言及目录 - 前端学习记录](https://book.cosine.ren/)
+- 语雀知识库：[前端学习记录](https://www.yuque.com/u22563621/abmcfv)
 愿热情永存，愿热爱不灭，愿生活无憾
 
 # 💻 Technical Stack
