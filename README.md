@@ -59,3 +59,6 @@
 <a href="https://github.com/yusixian/campus-community-backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=campus-community-backend&theme=dark&layout=compact" />
 </a>
+<a href="https://github.com/yusixian/cosine-toolbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yusixian&repo=cosine-toolbox&theme=dark&layout=compact" />
+</a>
