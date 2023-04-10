@@ -52,8 +52,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusixian&count_private=true&theme=dark&show_icons=true" />
 </a>
 
-![snake gif](https://github.com/yusixian/yusixian/blob/output/github-contribution-grid-snake.gif)
-
 # ⭐ My favorite Project!
 <a href="https://github.com/dancing-team/dance-ui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dancing-team&repo=dance-ui&theme=dark&layout=compact" />
