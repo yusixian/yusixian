@@ -7,7 +7,7 @@
 - Gitbook 前端学习记录：[前言及目录 - 前端学习记录](https://book.cosine.ren/) 不断完善ing...
 - [xchar - cosine](https://xchar.app/cosine)
 - 个人博客
-  - xlog 博客 👉 https://cosine.xlog.app/
+  - xlog 博客 👉 [https://x.cosine.ren/](https://x.cosine.ren/)
   - Hexo 博客 👉 https://ysx.cosine.ren/
 - 个人 Telegram 频道：[@cosine_front_end](https://t.me/cosine_front_end) 日常碎碎念，偶尔掉落优质前端博文推荐、学习资源等
 
