@@ -5,7 +5,7 @@
 愿热情永存，愿热爱不灭，愿生活无憾
 
 - 是余弦(cosine)那个cos，不是cosplay那个cos
-- 目前
+- 最喜欢的技术是 React & Tailwind
 - 找到我
   - xchar 👉 [https://xchar.app/cosine](https://xchar.app/cosine)
   - xlog 博客 👉 [https://x.cosine.ren/](https://x.cosine.ren/)
