@@ -14,7 +14,6 @@
   - Gitbook 前端学习记录 👉 [前言及目录 - 前端学习记录](https://book.cosine.ren/) 不断完善ing...
  
 ![](https://github-readme-stats.vercel.app/api?username=yusixian&count_private=true&theme=dark&show_icons=true) ![](https://streak-stats.demolab.com/?user=yusixian)
-![snake gif](https://raw.githubusercontent.com/yusixian/yusixian/output/github-contribution-grid-snake.gif)
 
 # ⭐ My favorite Project!
 <a href="https://github.com/dancing-team/dance-ui">
