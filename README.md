@@ -13,7 +13,7 @@
   - 个人 Telegram 频道 👉 [@cosine_front_end](https://t.me/cosine_front_end) 日常碎碎念，偶尔掉落优质前端博文推荐、学习资源等
   - Gitbook 前端学习记录 👉 [前言及目录 - 前端学习记录](https://book.cosine.ren/) 不断完善ing...
  
-![](https://github-readme-stats.vercel.app/api?username=yusixian&count_private=true&theme=dark&show_icons=true) ![](https://streak-stats.demolab.com/?user=yusixian)
+![](https://github-readme-stats.vercel.app/api?username=yusixian&count_private=true&theme=dark&show_icons=true)
 
 # ⭐ My favorite Project!
 <a href="https://github.com/dancing-team/dance-ui">
