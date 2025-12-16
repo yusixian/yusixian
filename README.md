@@ -1,4 +1,7 @@
 # 🌸 你好，这里是余弦
+
+[![wakatime](https://wakatime.com/badge/user/2e301aa2-bfbc-405f-8483-af221c431618.svg)](https://wakatime.com/@2e301aa2-bfbc-405f-8483-af221c431618)
+
 cosine = 余弦 = cos
 
 愿热情永存，愿热爱不灭，愿生活无憾
