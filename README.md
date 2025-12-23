@@ -17,5 +17,5 @@ cosine = 余弦 = cos
 - 个人 Telegram 频道 👉 [@cosine_front_end](https://t.me/cosine_front_end) 日常碎碎念，偶尔掉落优质前端博文推荐、学习资源等
 - Gitbook 前端学习记录 👉 [前言及目录 - 前端学习记录](https://book.cosine.ren/)
 
-[![GitHub State](https://github-readme-stats.vercel.app/api?username=yusixian&count_private=true&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub State](https://git-stats.cosine.ren/api?username=yusixian&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats-omega-rose.vercel.app?user=yusixian&theme=dark&hide_border=true&card_width=470)](https://git.io/streak-stats)
